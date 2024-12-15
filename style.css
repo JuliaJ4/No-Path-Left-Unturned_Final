@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+button{
+  background-color: #5dc978; 
+  color: #2f5237;
+  font-weight: 400;
+  font-family:"Special Elite", serif;
+  font-style: normal;
+  padding: 5px;
+  font-size: 20px;
+}
+#button-holder{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  margin: auto;
+  justify-content: center;
+}
